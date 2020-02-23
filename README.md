@@ -1,4 +1,4 @@
-# Google Trends’ Ability to Predict Unemployment andInflation in the World & Testing the Phillips Curve
+# Google Trends’ Ability to Predict Unemployment and Inflation in the World & Testing the Phillips Curve
 
 This project focuses on two research questions.
 
